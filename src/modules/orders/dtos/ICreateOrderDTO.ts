@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Customer from '@modules/customers/infra/typeorm/entities/Customer';
 
 interface IProduct {
